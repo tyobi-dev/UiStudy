@@ -404,3 +404,8 @@ UiStudy.vcxproj
 UiStudy.vcxproj.filters
 stdafx.cpp
 stdafx.h
+
+Templates/*
+UiStudyWeb.vcxproj
+UiStudyWeb.vcxproj.filters
+resources/*
