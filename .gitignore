@@ -400,12 +400,13 @@ FodyWeavers.xsd
 .editorconfig
 
 App/*
-UiStudy.vcxproj
-UiStudy.vcxproj.filters
+ui_dict.vcxproj
+ui_dict.vcxproj.filters
 stdafx.cpp
 stdafx.h
 
 Templates/*
-UiStudyWeb.vcxproj
-UiStudyWeb.vcxproj.filters
+ui_dictWeb.vcxproj
+ui_dictWeb.vcxproj.filters
 resources/*
+

@@ -3,7 +3,7 @@
 # include <Siv3D.hpp>
 
 //Webビルドするときにフラグを立てる。
-#define WEB_APP 1
+//#define WEB_APP 1
 
 
 class Define final {
