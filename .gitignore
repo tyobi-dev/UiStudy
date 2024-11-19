@@ -406,7 +406,7 @@ stdafx.cpp
 stdafx.h
 
 Templates/*
-ui_dictWeb.vcxproj
-ui_dictWeb.vcxproj.filters
+ui_dict_Web.vcxproj
+ui_dict_Web.vcxproj.filters
 resources/*
 
