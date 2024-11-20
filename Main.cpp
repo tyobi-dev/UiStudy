@@ -53,11 +53,15 @@ public:
 void Main()
 {
 
+
+
 	//const int width = 640;
 	//const int height = 360;
 
 	//Window::Resize(720, 1280);
-	Window::Resize(640, 1200);
+	//Window::Resize(640, 960);
+	Window::Resize(1440, 720);
+
 	Scene::SetBackground(ColorF(0.95, 0.95, 0.95));
 
 	Font font(40, Typeface::Bold);
@@ -76,7 +80,7 @@ void Main()
 		//Line{ 0, 1280, 720, 1280 }.draw(4, Palette::Orange);
 
 
-		Rect{ 0, 96, 640, 360 }.draw(Palette::Skyblue);
+		Rect{ 0, 0, 1280, 720 }.draw(Palette::Skyblue);
 
 		font(U"Spaceキーでサブウィンドウ表示").drawAt(Scene::CenterF(), Palette::Gray);
 
